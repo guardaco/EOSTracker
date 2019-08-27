@@ -5,8 +5,8 @@
 
 export const environment = {
   production: false,
-  walletUrl: 'https://walleteos.com',
-  votingUrl: 'https://eosportal.io',
+  walletUrl: 'https://guarda.co',
+  votingUrl: 'https://echangenow.io',
   appName: 'EOS Tracker',
   logoUrl: '/assets/logo.png',
   blockchainUrl: 'https://proxy.eosnode.tools',
